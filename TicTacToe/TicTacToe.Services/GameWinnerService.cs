@@ -8,19 +8,30 @@ namespace TicTacToe.Services
 {
     public class GameWinnerService : IGameWinnerService
     {
+        private const char SymbolForNoWinner = ' ';
+
         public char Validate(char[,] gameBoard)
         {
-            var currentWinningSymbol = ' ';
+            var currentWinningSymbol = SymbolForNoWinner;
             currentWinningSymbol = CheckForThreeInARowHorizontalRow(gameBoard);
 
+            if (currentWinningSymbol != SymbolForNoWinner)
+                return currentWinningSymbol;
+
+            currentWinningSymbol = CheckForThreeInARowVerticalColumn(gameBoard);
+            return currentWinningSymbol;
+        }
+
+        private static char CheckForThreeInARowVerticalColumn(char[,] gameBoard)
+        {
             var topLeftRow = gameBoard[0, 0];
             var midLeftRow = gameBoard[1, 0];
             var bottomLeftRow = gameBoard[2, 0];
 
             if (topLeftRow == midLeftRow && midLeftRow == bottomLeftRow)
-                currentWinningSymbol = topLeftRow;
+                return topLeftRow;
 
-            return currentWinningSymbol;
+            return SymbolForNoWinner;
         }
 
         private static char CheckForThreeInARowHorizontalRow(char[,] gameBoard)
@@ -32,7 +43,7 @@ namespace TicTacToe.Services
             if (topLeftColumn == topMidColumn && topMidColumn == topRightColumn)
                 return topLeftColumn;
 
-            return ' ';
+            return SymbolForNoWinner;
         }
 
     }
