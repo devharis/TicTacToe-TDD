@@ -1,0 +1,5 @@
+c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll
+c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.pdb
+c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.dll
+c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.pdb
+c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.csprojResolveAssemblyReference.cache
