@@ -19,6 +19,12 @@ namespace TicTacToe.Services
                 return currentWinningSymbol;
 
             currentWinningSymbol = CheckForThreeInARowVerticalColumn(gameBoard);
+
+            if (currentWinningSymbol != SymbolForNoWinner)
+                return currentWinningSymbol;
+
+            currentWinningSymbol = CheckForThreeInARowDiagonally(gameBoard);
+
             return currentWinningSymbol;
         }
 
@@ -42,6 +48,18 @@ namespace TicTacToe.Services
 
             if (topLeftColumn == topMidColumn && topMidColumn == topRightColumn)
                 return topLeftColumn;
+
+            return SymbolForNoWinner;
+        }
+
+        private static char CheckForThreeInARowDiagonally(char[,] gameBoard)
+        {
+            var topLeftCell = gameBoard[0, 0];
+            var centerCell = gameBoard[1, 1];
+            var bottomRightCell = gameBoard[2, 2];
+
+            if (topLeftCell == centerCell && centerCell == bottomRightCell)
+                return topLeftCell;
 
             return SymbolForNoWinner;
         }
