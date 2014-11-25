@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TicTacToe.Tests.Controllers
+namespace TicTacToe.Services.Controllers
 {
     [TestClass]
     public class GameControllerTest

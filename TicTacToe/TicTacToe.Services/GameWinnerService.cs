@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using TicTacToe.Services;
+using TicTacToe.Services.IServices;
 
 namespace TicTacToe.Services
 {
     public class GameWinnerService : IGameWinnerService
     {
         private const char SymbolForNoWinner = ' ';
+        private const char SymbolForTie = '-';
 
         public char Validate(char[,] gameBoard)
         {
@@ -25,7 +26,24 @@ namespace TicTacToe.Services
 
             currentWinningSymbol = CheckForThreeInARowDiagonally(gameBoard);
 
+            if (currentWinningSymbol != SymbolForNoWinner)
+                return currentWinningSymbol;
+
+            currentWinningSymbol = CheckForTie(gameBoard);
+
             return currentWinningSymbol;
+        }
+
+        private char CheckForTie(char[,] gameBoard)
+        {
+            var gameBoardEnumerable = gameBoard.GetEnumerator();
+            while (gameBoardEnumerable.MoveNext())
+            {
+                var current = (char)gameBoardEnumerable.Current;
+                if (Char.IsWhiteSpace(current))
+                    return SymbolForNoWinner;
+            }
+            return SymbolForTie;
         }
 
         private static char CheckForThreeInARowVerticalColumn(char[,] gameBoard)
