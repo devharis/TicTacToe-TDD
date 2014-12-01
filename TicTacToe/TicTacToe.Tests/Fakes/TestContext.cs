@@ -1,6 +1,6 @@
 ﻿using System.Data.Common;
 using System.Data.Entity;
-using TicTacToe.Models;
+using TicTacToe.Data;
 
 namespace TicTacToe.Services.Fakes
 {
@@ -9,7 +9,6 @@ namespace TicTacToe.Services.Fakes
         public TestContext()
             : base("name=DefaultConnection")
         {
-
         }
 
         public TestContext(DbConnection connection)
@@ -18,6 +17,14 @@ namespace TicTacToe.Services.Fakes
             this.Configuration.LazyLoadingEnabled = false;
             this.ScoreBoards = new FakeDbSet<ScoreBoard>();
         }
+
         public virtual DbSet<ScoreBoard> ScoreBoards { get; private set; }
+        public int SaveChangesCount { get; private set; }
+
+        int IContext.SaveChanges()
+        {
+            this.SaveChangesCount++;
+            return 1;
+        } 
     }
 }

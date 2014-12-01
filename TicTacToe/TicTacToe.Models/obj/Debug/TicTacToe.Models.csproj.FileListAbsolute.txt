@@ -1,5 +1,4 @@
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Models\bin\Debug\TicTacToe.Models.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Models\bin\Debug\TicTacToe.Models.pdb
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Models\obj\Debug\TicTacToe.Models.csprojResolveAssemblyReference.cache
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Models\obj\Debug\TicTacToe.Models.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Models\obj\Debug\TicTacToe.Models.pdb

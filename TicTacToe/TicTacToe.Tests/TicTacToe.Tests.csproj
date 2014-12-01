@@ -117,6 +117,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\TicTacToe.Data\TicTacToe.Data.csproj">
+      <Project>{1A086471-B5C9-486E-8876-02F189027084}</Project>
+      <Name>TicTacToe.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TicTacToe.Models\TicTacToe.Models.csproj">
       <Project>{ACF5687B-33CD-498C-962B-A31BAAE38C98}</Project>
       <Name>TicTacToe.Models</Name>

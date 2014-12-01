@@ -5,13 +5,12 @@ c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Serv
 c:\users\devharis\documents\visual studio 2013\Projects\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.csprojResolveAssemblyReference.cache
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.pdb
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Models.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Models.pdb
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.xml
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.csprojResolveAssemblyReference.cache
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\obj\Debug\TicTacToe.Services.pdb
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Services.dll.config
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.dll
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.xml
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Models.dll
-C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Models.pdb

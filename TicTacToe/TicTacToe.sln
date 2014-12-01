@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{82BA21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.Models", "TicTacToe.Models\TicTacToe.Models.csproj", "{ACF5687B-33CD-498C-962B-A31BAAE38C98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe.Data", "TicTacToe.Data\TicTacToe.Data.csproj", "{1A086471-B5C9-486E-8876-02F189027084}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +42,10 @@ Global
 		{ACF5687B-33CD-498C-962B-A31BAAE38C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACF5687B-33CD-498C-962B-A31BAAE38C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACF5687B-33CD-498C-962B-A31BAAE38C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A086471-B5C9-486E-8876-02F189027084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A086471-B5C9-486E-8876-02F189027084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A086471-B5C9-486E-8876-02F189027084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A086471-B5C9-486E-8876-02F189027084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
