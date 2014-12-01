@@ -62,3 +62,5 @@ C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Tests\bin\Deb
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Tests\bin\Debug\NMemory.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Tests\bin\Debug\Effort.xml
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Tests\bin\Debug\NMemory.xml
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Models.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Tests\bin\Debug\TicTacToe.Models.pdb

@@ -3,7 +3,7 @@ using System.Data.Entity;
 
 namespace TicTacToe.Services
 {
-    public class Context : DbContext
+    public class Context : DbContext, IContext
     {
         public Context()
             : base("name=DefaultConnection")
@@ -16,7 +16,6 @@ namespace TicTacToe.Services
         {
             this.Configuration.LazyLoadingEnabled = false;
         }
-
-        public DbSet<ScoreBoard> ScoreBoard { get; set; }
+        public virtual DbSet<ScoreBoard> ScoreBoards { get; set; }
     }
 }

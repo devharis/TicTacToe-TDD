@@ -1,0 +1,13 @@
+NCoverApiService:  initialized at den 26 november 2014
+2014-11-26T08:40:50.9323749+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:41:20.9460916+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:41:50.9598083+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:42:20.9735250+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:42:50.9892418+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:43:21.0048591+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:43:51.0237951+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:44:21.0406803+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:44:51.0570389+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:45:21.0679702+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:45:51.0946917+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK
+2014-11-26T08:46:21.1123402+01:00: GET - http://127.0.0.1:11235/serveravailable.json --> OK

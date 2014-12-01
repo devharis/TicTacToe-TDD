@@ -49,3 +49,11 @@ C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\Newtonsof
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\Effort.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\EntityFramework.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\EntityFramework.SqlServer.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\NMemory.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\Effort.xml
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\EntityFramework.xml
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\EntityFramework.SqlServer.xml
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe\bin\NMemory.xml

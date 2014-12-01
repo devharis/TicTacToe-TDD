@@ -13,3 +13,5 @@ C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.xml
 C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Models.dll
+C:\Users\devHaris\Desktop\Github\TicTacToe-TDD\TicTacToe\TicTacToe.Services\bin\Debug\TicTacToe.Models.pdb

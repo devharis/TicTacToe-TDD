@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 
-namespace TicTacToe.Services.Controllers
+namespace TicTacToe.Controllers
 {
-    class GameController : Controller
+    public class GameController : Controller
     {
     }
 }

@@ -1,0 +1,236 @@
+2014-11-26T08:40:22: Launching bolt session for c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\.tictactoe.boltdata - SessionId: 5b3f76e5-40af-457a-92d0-bea8574b7517
+2014-11-26T08:40:38: Program Launch Detection Enabled.
+2014-11-26T08:40:38: POST http://127.0.0.1:11235/v1/startProgramLaunchDetection.json 200 0,008s 
+2014-11-26T08:40:38: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,017s 
+2014-11-26T08:40:38: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:40:38: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:40: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:41: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:42: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:43: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:40:44: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:40:45: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:46: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,003s 
+2014-11-26T08:40:47: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:48: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:40:49: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:50: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:40:50: GET http://127.0.0.1:11235/serveravailable.json 200 0,000s 
+2014-11-26T08:40:51: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,000s 
+2014-11-26T08:40:52: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:40:53: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:54: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:55: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:56: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:57: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,005s 
+2014-11-26T08:40:58: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:40:59: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:41:00: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:41:01: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:02: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:03: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:04: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:41:05: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:06: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:07: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:08: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:08: GET http://127.0.0.1:11235/serveravailable.json 200 0,006s 
+2014-11-26T08:41:09: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:41:10: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:11: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:12: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:13: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:14: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:15: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,000s 
+2014-11-26T08:41:15: POST http://127.0.0.1:11235/v1/listen.json 200 0,001s QUEUED-ASYNC
+2014-11-26T08:41:16: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:17: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:18: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:19: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:20: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:20: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:41:21: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:41:22: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:23: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:24: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:25: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:26: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:27: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,000s 
+2014-11-26T08:41:28: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:29: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:30: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:41:31: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,003s 
+2014-11-26T08:41:50: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:42:20: GET http://127.0.0.1:11235/serveravailable.json 200 0,000s 
+2014-11-26T08:42:50: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:43:06: Waiting for process to exit:  Bolt.Agent.40(35568)
+2014-11-26T08:43:06: Monitoring Process -- [35568] "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\NCover\Bolt\4.5.2758.719\Bolt.Agent.40.exe"
+2014-11-26T08:43:06: Execution -- [9D8DAA527686D3BAA1407915E56EA6688E21FB71] 
+2014-11-26T08:43:06: AllocatedPage -- [Global\GN_PAGE_001_35568] - 1048575
+2014-11-26T08:43:06: Default AppDomain Started -- [8791569934320] "mscorlib.dll" [9D8DAA527686D3BAA1407915E56EA6688E21FB71]
+2014-11-26T08:43:06: Default AppDomain Started -- [9630160] "DefaultDomain" [9D8DAA527686D3BAA1407915E56EA6688E21FB71]
+2014-11-26T08:43:06: Default AppDomain Started -- [8791569932816] "EE Shared Assembly Repository" [9D8DAA527686D3BAA1407915E56EA6688E21FB71]
+2014-11-26T08:43:07: Merged AppDomain Started -- [464383824] "BoltRunner-c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug" [53C43534C0D6A158A48572D3E5BFEC375A6A0E94]
+2014-11-26T08:43:07: Module Load -- Capture[242335EC42E049DF448A0995CDA1C03BE37BCC49] Binary[CB6EDB8A466C98224CD34748A64F31370AEDD96D] Merkle[0000000000000000000000000000000000000000] Module "c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug\TicTacToe.Tests.dll"
+2014-11-26T08:43:07: Launch Static Analysis Module -- [CB6EDB8A466C98224CD34748A64F31370AEDD96D] "c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug\TicTacToe.Tests.dll"
+2014-11-26T08:43:07: Analysis Confirm check for existing Merkle Hash - ModuleHash[CB6EDB8A466C98224CD34748A64F31370AEDD96D] MerkleHash[18D6BA9DD28A07336D8909C923E6A63E5B67A443]
+2014-11-26T08:43:07: Analysis for module required TicTacToe.Tests.dll: ModuleHash[CB6EDB8A466C98224CD34748A64F31370AEDD96D] MerkleHash[18D6BA9DD28A07336D8909C923E6A63E5B67A443]
+2014-11-26T08:43:07: Module Load -- Capture[CB6EDB8A466C98224CD34748A64F31370AEDD96D] Binary[CB6EDB8A466C98224CD34748A64F31370AEDD96D] Merkle[18D6BA9DD28A07336D8909C923E6A63E5B67A443] Module "c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug\TicTacToe.Tests.dll"
+2014-11-26T08:43:07: 2014-11-26T08:43:07.9612125+01:00 AnalysisShutdown RECEIVED:  CB6EDB8A466C98224CD34748A64F31370AEDD96D
+2014-11-26T08:43:07: Module Load -- Capture[0353D9D855AE292A2B4E7A966CC76DF68E0D7B56] Binary[8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] Merkle[0000000000000000000000000000000000000000] Module "c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug\TicTacToe.Services.dll"
+2014-11-26T08:43:07: Analysis Shutdown -- [CB6EDB8A466C98224CD34748A64F31370AEDD96D]
+2014-11-26T08:43:07: Launch Static Analysis Module -- [8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] "c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug\TicTacToe.Services.dll"
+2014-11-26T08:43:07: Analysis Confirm check for existing Merkle Hash - ModuleHash[8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] MerkleHash[123A60742CF361A6BA6891462879060BE255B1A9]
+2014-11-26T08:43:07: Analysis for module required TicTacToe.Services.dll: ModuleHash[8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] MerkleHash[123A60742CF361A6BA6891462879060BE255B1A9]
+2014-11-26T08:43:07: Module Load -- Capture[8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] Binary[8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] Merkle[123A60742CF361A6BA6891462879060BE255B1A9] Module "c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug\TicTacToe.Services.dll"
+2014-11-26T08:43:08: 2014-11-26T08:43:08.0132155+01:00 AnalysisShutdown RECEIVED:  8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8
+2014-11-26T08:43:08: Analysis Shutdown -- [8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8]
+2014-11-26T08:43:08: Static capture finalized -- [CB6EDB8A466C98224CD34748A64F31370AEDD96D] - 152 ms
+2014-11-26T08:43:08: Static capture finalized -- [8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] - 108 ms
+2014-11-26T08:43:08: Captures to be updated because of static analysis -- [CB6EDB8A466C98224CD34748A64F31370AEDD96D] - 0
+2014-11-26T08:43:08: Executions modified because of static analysis -- [CB6EDB8A466C98224CD34748A64F31370AEDD96D] - 0
+2014-11-26T08:43:08: Captures to be updated because of static analysis -- [8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] - 0
+2014-11-26T08:43:08: Executions modified because of static analysis -- [8DC6FB10281B91D9CB853C5CFF9DF60E35B058F8] - 0
+2014-11-26T08:43:11: Process shutdown - request execution finalize [9D8DAA527686D3BAA1407915E56EA6688E21FB71]
+2014-11-26T08:43:11: Process shutdown - finalize execution [9D8DAA527686D3BAA1407915E56EA6688E21FB71] total appDomains 1
+2014-11-26T08:43:11: Finalize Execution Loading [9D8DAA527686D3BAA1407915E56EA6688E21FB71] appDomain [] captures [2]
+2014-11-26T08:43:11: Finalize Execution [9D8DAA527686D3BAA1407915E56EA6688E21FB71] Loading Complete appDomain []
+2014-11-26T08:43:11: Process shutdown - finalize captures [9D8DAA527686D3BAA1407915E56EA6688E21FB71] appDomain [53C43534C0D6A158A48572D3E5BFEC375A6A0E94 - BoltRunner-c:\users\devharis\desktop\github\tictactoe-tdd\tictactoe\tictactoe.tests\bin\debug]
+2014-11-26T08:43:11: Finalize Execution [9D8DAA527686D3BAA1407915E56EA6688E21FB71] -- final execution id [9D8DAA527686D3BAA1407915E56EA6688E21FB71]
+2014-11-26T08:43:11: [A0760386BB97D4ACFFF465D7DB78EDD2DF052C2F]Create merge queue: project[D296396B40004F915EDE6F8AD074ECE4954EF7F7] buildId[14a58f1e-5b01-484f-995f-f4cb7b268fd9] execution ct: 1
+2014-11-26T08:43:11: [A0760386BB97D4ACFFF465D7DB78EDD2DF052C2F]Joining merge queue: project[D296396B40004F915EDE6F8AD074ECE4954EF7F7] buildId[14a58f1e-5b01-484f-995f-f4cb7b268fd9] execution ct: 1
+2014-11-26T08:43:11: Adding 2 execution captures to merge queue: 9D8DAA527686D3BAA1407915E56EA6688E21FB71
+2014-11-26T08:43:11: Process shutdown complete - Bolt session: 5b3f76e5-40af-457a-92d0-bea8574b7517
+2014-11-26T08:43:12: Deleting execution after consolidation: 9D8DAA527686D3BAA1407915E56EA6688E21FB71
+2014-11-26T08:43:12: [A0760386BB97D4ACFFF465D7DB78EDD2DF052C2F] merge request post processing completed.
+2014-11-26T08:43:12: Execution A0760386BB97D4ACFFF465D7DB78EDD2DF052C2F pre-aggregation complete in 00:00:00.1081060
+2014-11-26T08:43:21: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:43:51: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:44:21: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:44:51: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:45:21: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/ 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/stylesheets/_compiled/ncover.css 200 0,006s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/javascript/_external/jquery-1.8.0.min.js?build=635466390730633937 200 0,008s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/javascript/_external/jquery-ui-1.8.23.custom.min.js?build=635466390730633937 200 0,033s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/javascript/_external/jquery.event.drag-2.0.min.js?build=635466390730633937 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/javascript/_external/jquery.dataTables.min.js?build=635466390730633937 200 0,011s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/javascript/_external/TableTools.min.js?build=635466390730633937 200 0,002s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/init.js?build=635466390730633937 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/javascript/_compiled/ncover.min.js?build=635466390730633937 200 0,075s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/softwareversion.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/licensed.json?_=1416987935548 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/metadata/projects.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/ncover_sprites.png 200 0,006s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/top_header_bg.png 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/softwareversion.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/hasCCConnection.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/breadcrumb_background_depressed.png 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/breadcrumb_background.png 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/ccServer.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/hasCCConnection.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/ccServer.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/hasCCConnection.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/notifier.png 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/small-spinner.gif 200 0,001s 
+2014-11-26T08:45:35: No updates available
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/updateAvailable.json 200 0,003s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/loading.gif 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/projectrefs.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/softwareversion.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/softwareversion.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/hasCCConnection.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/ccServer.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/hasCCConnection.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/ccServer.json 200 0,000s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/v1/hasCCConnection.json 200 0,000s 
+2014-11-26T08:45:35: No updates available
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/updateAvailable.json 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/images/stripe_transparent.png 200 0,001s 
+2014-11-26T08:45:35: GET http://127.0.0.1:11235/favicon.ico 200 0,005s 
+2014-11-26T08:45:38: POST http://127.0.0.1:11235/v1/listen.json 200 0,006s QUEUED-ASYNC
+2014-11-26T08:45:38: POST http://127.0.0.1:11235/v1/listen.json 200 0,003s QUEUED-ASYNC
+2014-11-26T08:45:38: POST http://127.0.0.1:11235/v1/listen.json 200 0,005s QUEUED-ASYNC
+2014-11-26T08:45:38: POST http://127.0.0.1:11235/v1/listen.json 200 0,001s QUEUED-ASYNC
+2014-11-26T08:45:38: POST http://127.0.0.1:11235/v1/listen.json 200 0,000s QUEUED-ASYNC
+2014-11-26T08:45:39: GET http://127.0.0.1:11235/images/info_icon.png 200 0,003s 
+2014-11-26T08:45:40: GET http://127.0.0.1:11235/v1/users/current_user.json 200 0,000s 
+2014-11-26T08:45:40: GET http://127.0.0.1:11235/images/sort_both.png 200 0,001s 
+2014-11-26T08:45:40: GET http://127.0.0.1:11235/images/jquery_ui/ui-icons_101737_256x240.png 200 0,001s 
+2014-11-26T08:45:40: GET http://127.0.0.1:11235/serverabout.json 200 0,001s 
+2014-11-26T08:45:51: Program Launch Detection Enabled.
+2014-11-26T08:45:51: POST http://127.0.0.1:11235/v1/startProgramLaunchDetection.json 200 0,002s 
+2014-11-26T08:45:51: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,003s 
+2014-11-26T08:45:51: GET http://127.0.0.1:11235/serveravailable.json 200 0,003s 
+2014-11-26T08:45:52: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:45:53: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:45:54: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:45:55: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:45:56: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:45:57: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:45:58: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:45:59: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:00: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:01: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:02: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:03: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,005s 
+2014-11-26T08:46:04: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:05: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:06: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:07: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:08: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:09: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:10: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:11: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:12: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:13: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:14: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:15: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,005s 
+2014-11-26T08:46:16: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:17: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:18: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:19: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:20: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:21: GET http://127.0.0.1:11235/serveravailable.json 200 0,001s 
+2014-11-26T08:46:21: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:22: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:23: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:24: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:25: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:26: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:27: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,003s 
+2014-11-26T08:46:28: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:29: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:30: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:31: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:32: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:33: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:33: POST http://127.0.0.1:11235/v1/listen.json 200 0,001s QUEUED-ASYNC
+2014-11-26T08:46:33: POST http://127.0.0.1:11235/v1/listen.json 200 0,003s QUEUED-ASYNC
+2014-11-26T08:46:33: POST http://127.0.0.1:11235/v1/listen.json 200 0,001s QUEUED-ASYNC
+2014-11-26T08:46:33: POST http://127.0.0.1:11235/v1/listen.json 200 0,000s QUEUED-ASYNC
+2014-11-26T08:46:34: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:35: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,004s 
+2014-11-26T08:46:36: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:37: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:38: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:39: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:40: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:41: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:42: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,001s 
+2014-11-26T08:46:43: GET http://127.0.0.1:11235/v1/programLaunchDetectionList.json 200 0,002s 
+2014-11-26T08:46:43: Stopping NCover server.
+2014-11-26T08:46:43: Shutdown Listener on http://127.0.0.1:11235/
+2014-11-26T08:46:43: Disposing profiler data and shutting down watcher threads.
+2014-11-26T08:46:43: Close pipe communication.
+2014-11-26T08:46:43: Signal shutdown.
+2014-11-26T08:46:43: 
+.Net Framework Details:
+2014-11-26T08:46:43: v2.0.50727  2.0.50727.5420  SP2
+2014-11-26T08:46:43: v3.0  3.0.30729.5420  SP2
+2014-11-26T08:46:43: v3.5  3.5.30729.5420  SP1
+2014-11-26T08:46:43: v4  
+2014-11-26T08:46:43:   Client  4.5.50938
+2014-11-26T08:46:43:   Full  4.5.50938
+2014-11-26T08:46:43: v4.0  
+2014-11-26T08:46:43:   Client  4.0.0.0

@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using TicTacToe.Services.IServices;
 using TicTacToe.Services;
+using TicTacToe.Services.Interfaces;
 
 namespace TicTacToe.Services.Services
 {

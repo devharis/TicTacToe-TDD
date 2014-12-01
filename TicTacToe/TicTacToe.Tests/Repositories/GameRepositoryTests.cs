@@ -2,6 +2,10 @@
 using System.Data.Entity;
 using Effort;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Moq;
+using TicTacToe.Models;
+using TicTacToe.Services.Interfaces;
+using TestContext = TicTacToe.Services.Fakes.TestContext;
 
 namespace TicTacToe.Services.Repositories
 {
@@ -9,23 +13,39 @@ namespace TicTacToe.Services.Repositories
     public class GameRepositoryTests
     {
         DbConnection _connection;
-        DbContext _databaseContext;
+        Mock<IContext> _databaseContext;
         IRepository _gameRepository;
+        Mock<DbSet<ScoreBoard>> _mockSet;
 
         [TestInitialize]
         public void Initialize()
         {
+            _mockSet = new Mock<DbSet<ScoreBoard>>();
             _connection = DbConnectionFactory.CreateTransient();
-            _databaseContext = new Context(_connection);
-            _gameRepository = new GameRepository(_databaseContext);
+            _databaseContext = new Mock<IContext>();
+            _databaseContext.Setup(o => o.Set<ScoreBoard>()).Returns(_mockSet.Object);
+            _gameRepository = new GameRepository(_databaseContext.Object);
 
+        }
+
+        [TestMethod]
+        public void ContextIsInitializedCorrectly()
+        {
+            // Arrange
+            const string expected = "ThisIsAFakeConnection";
+
+            // Act
+            var context = new Context();
+
+            // Assert
+            Assert.AreEqual(context.Database.Connection.ConnectionString, expected);
         }
 
         [TestMethod]
         public void RepositoryMustChangeStateOnAdd()
         {
             // Arrange
-            const EntityState expected = EntityState.Added;
+
 
             var scoreBoard = new ScoreBoard()
             {
@@ -36,27 +56,26 @@ namespace TicTacToe.Services.Repositories
             // Act
             _gameRepository.Add(scoreBoard);
 
-            // Assert
-            Assert.AreEqual(expected, _databaseContext.Entry(scoreBoard).State);
+            _mockSet.Verify(m => m.Add(It.IsAny<ScoreBoard>()), Times.Once());
+           
         }
 
-        [TestMethod]
-        public void StateMustChange()
-        {
-            // Arrange
-            const EntityState expected = EntityState.Added;
+        //[TestMethod]
+        //public void StateMustChange()
+        //{
+        //    // Arrange
+        //    const EntityState expected = EntityState.Added;
+        //    var scoreBoard = new ScoreBoard()
+        //    {
+        //        Id = 0,
+        //        Name = "Haris"
+        //    };
 
-            var scoreBoard = new ScoreBoard()
-            {
-                Id = 0,
-                Name = "Haris"
-            };
+        //    // Act
+        //    _gameRepository.Add(scoreBoard);
 
-            // Act
-            _gameRepository.Add(scoreBoard);
-
-            // Assert
-            Assert.AreEqual(expected, _databaseContext.Entry(scoreBoard).State);
-        }
+        //    // Assert
+        //    Assert.AreEqual(expected, _databaseContext.Entry(scoreBoard).State);
+        //}
     }
 }
